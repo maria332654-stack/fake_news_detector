@@ -103,7 +103,8 @@ fake-news-detector/
 │
 ├── .gitignore
 └── README.md
-```text
+```
+
 Usuário digita uma notícia
 ↓
 Front-end envia texto para Flask
