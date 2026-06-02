@@ -104,7 +104,8 @@ fake-news-detector/
 ├── .gitignore
 └── README.md
 ```
-
+# Como Funciona
+```text
 Usuário digita uma notícia
 ↓
 Front-end envia texto para Flask
@@ -117,6 +118,8 @@ Sistema retorna:
 - Probabilidade Fake
 - Probabilidade Real
 - Explicação
+```
+___
 # ✨ Funcionalidades
 
 ✅ Análise contextual de notícias
